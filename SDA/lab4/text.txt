@@ -1,0 +1,7 @@
+1) tablou de pointeri
+2)prin recursie introducem in arbore nou
+#facem midl
+
+Oglindirea
+daca e oglindit 1
+ne oglindit 0
